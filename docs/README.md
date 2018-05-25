@@ -1,6 +1,6 @@
 # test email signup
 
-README
-<Firebase />
-README
+Before;Fireflop;After
+<br />
+Before;<Fireflop />;After
 
